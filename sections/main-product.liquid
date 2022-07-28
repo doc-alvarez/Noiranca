@@ -1,3 +1,9 @@
+<link
+  rel="stylesheet"
+  href="https://unpkg.com/swiper@8/swiper-bundle.min.css"
+/>
+
+<script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
 {%- assign is_featured_product = false -%}
 
 {%- liquid
@@ -58,7 +64,7 @@
     </div>
   {% endif %}
 
-  <div class="product-area__media {% if media_columns_to_show != 1 %}multi-column{% endif %}"
+  <div id="customGrid" class="product-area__media {% if media_columns_to_show != 1 %}multi-column{% endif %}"
        data-cc-animate data-cc-animate-duration="2s">
 
     <div class="theme-gallery product-slider
@@ -124,6 +130,162 @@
         <span class="view-in-space__text">{{ 'products.product.view_in_space' | t }}</span>
       </button>
     {% endif %}
+  </div>
+
+<style>
+  @media screen and (max-width: 1024px) {
+   video {
+    height: 100%;
+    width: 100%;
+   }
+
+ } 
+
+ @media screen and (min-width: 300px) and (max-width: 1024px) {
+
+   .product-single__title {
+    display: flex;
+    justify-content: space-between;
+   }
+ }
+ .video_display-box {
+  padding-bottom: 0 !important;
+ }
+ .selector-wrapper.js.product-form__item {
+  margin: 25px 0 0 0 !important;
+ }
+ .js-play-button {
+  background-color: white !important;
+ }
+ .js-scroll-button {
+  position: absolute;
+    bottom: 20px;
+    left: 15px;
+    cursor: pointer;
+    background: white;
+    border-radius: 50%;
+    z-index: 2;
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    line-height: 50px;
+    transition: all ease .45s;
+    box-shadow: 0 0 100px 0px #8d8583;
+    justify-content: center;
+    align-items: center;
+    padding-left: 4px;
+ }
+ svg {
+  width: 18px;
+  height: 18px;
+  fill: #9c928cf5 !important;
+ }
+ img {
+  width: 100% !important;
+ }
+ @media screen and (min-width: 1024px) {
+  .swiper {
+    display: none;
+  }
+  #customGrid {
+    display: block;
+  }
+  .product-single__title {
+    margin-bottom: 15px;
+  }
+ }
+ @media screen and (max-width: 1024px) {
+  .swiper {
+    display: block;
+  }
+  #customGrid {
+    display: none;
+  }
+ }
+
+
+   fieldset.single-option-radio {
+    display: flex;
+      gap: 10px;
+      align-items: center;
+   }
+ 
+
+</style>
+
+<!-- Mobile swiper -->
+  <div class="swiper" style="width: 100%; height: 100%">
+    <div class="swiper-wrapper">
+      
+      {%- for image in product.images -%}
+      <div class="swiper-slide">
+        <a href="{{ image | img_url: '1400x' }}" itemprop="contentUrl" data-size="1400x1400"
+                class="product__photo-wrapper product__photo-wrapper-{{ section.id }} zoom_image zoom zoom_enabled"
+                style="padding-top:{{ 1 | divided_by: image.aspect_ratio | times: 100}}%;">
+                {% assign img_url = image | img_url: '1x1' | replace: '_1x1.', '_{width}x.' %}
+                <img loading="lazy" itemprop="thumbnail" class="lazyload {% unless image == featured_image %} lazypreload{% endunless %}"
+                    src="{{ image | img_url: '1200x' }}"
+                    data-src="{{ img_url }}"
+                    data-widths="[180, 240, 360, 480, 720, 960, 1080, 1296, 1512, 1728, 2048]"
+                    data-aspectratio="{{ image.aspect_ratio }}"
+                    data-sizes="auto"
+                    alt="{{ image.alt | escape }}">
+              </a>
+              <span class="js-scroll-button" style="display: none;">
+                <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 210 210" style="enable-background:new 0 0 210 210;" xml:space="preserve">
+<path d="M179.07,105L30.93,210V0L179.07,105z"/>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>  
+              </span>
+      </div>
+      {% endfor %}
+      {% for media in product.media %}
+      {%- if media.media_type == 'video' -%}
+          <div class="swiper-slide">
+            {% render 'productVideo', media: media %}
+          </div>
+          <style>
+            .js-scroll-button {
+              display: block !important;
+            }
+          </style>
+       {% endif %}   
+    {% endfor %}
+    </div>
+  
+    <div class="swiper-scrollbar" style="height: 6px;"></div>
+
   </div>
 
   <div class="product-area__details product-detail">
@@ -1933,3 +2095,23 @@
     ]
   }
 {% endschema %}
+<script>
+  const swiper = new Swiper('.swiper', {
+  // Optional parameters
+  direction: 'horizontal',
+
+  // And if we need scrollbar
+  scrollbar: {
+    el: '.swiper-scrollbar',
+  },
+});
+const swiperHandler = document.querySelector('.swiper').swiper;
+let hookEl = document.querySelectorAll('.js-scroll-button');
+hookEl.forEach(hook => {
+  hook.addEventListener('click', () => {
+    swiperHandler.slideTo(swiperHandler.slides.length, 1000);
+  })
+
+})
+
+</script>

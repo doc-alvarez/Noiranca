@@ -1,0 +1,33 @@
+<style>
+  @media screen and (max-width: 1024px) {
+    .video_display {
+      padding: 0 !important;
+      max-width: 100% !important;
+    }
+  }
+</style>
+{%- if media.media_type == 'video' -%}
+<div class="video_display {{index}} col-lg-6 col-12" data-alt="{{media.alt}}">
+  <div class="video_display-box">
+<!-- productVideo.liquid -->
+<span class="js-play-button active">
+  {%- render 'icon-play' -%}
+  {%- render 'icon-pause' -%}
+</span>
+
+{{ media | video_tag: image_size: '630x', autoplay: true, loop: true, muted: true, class: 'js-product-video' | replace: 'playsinline="playsinline"', ''}}
+  </div>
+  </div>
+
+
+{%- endif -%}
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    let ref = document.querySelectorAll('video');
+    ref.forEach(vid => {
+      vid.setAttribute('playsinline', true);
+    })
+  })
+</script>
+
