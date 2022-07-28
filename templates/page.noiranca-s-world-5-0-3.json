@@ -1,0 +1,208 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "show_page_content": false
+      }
+    },
+    "163661761814986aca": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/banner_2_52ed91e4-b0a0-4f9c-bbc1-62314fe0393f.jpg",
+        "desktop_image_position": "top center",
+        "mobile_image_position": "center center",
+        "height": "fixed",
+        "height_desktop": 800,
+        "height_mobile": 500,
+        "subheading": "",
+        "title": "NOIRANCA’S WORLD",
+        "title_size": 66,
+        "heading_h1": false,
+        "text": "<p>A delicate portmanteau of “Noir” and “Bianca”, NOIRANCA embodies the beauty of contrast and is a reminder of the untold complexity in women of all colors.<\/p>",
+        "enlarge_text": true,
+        "button_label": "",
+        "image_link": "",
+        "overlay_position": "position--hcenter position--vcenter",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style_tint": false
+      }
+    },
+    "1636617634bf93cebf": {
+      "type": "image-with-text",
+      "settings": {
+        "subheading": "",
+        "title": "Igniting A New Femininity",
+        "text": "<p>She bears a silhouette that is uniquely hers, dark as night can be, bright as the road ahead. She never shows her fears, never looks for sympathy. She is loving, hysterical, she is chaos and beauty intertwined. She is different.<\/p><p>NOIRANCA draws its inspiration from the woman who dares to dream and stay out of bounds, who is complex and multifaceted. She is at once strong and dreamy, playful and mischievous, inquisitive yet composed. NOIRANCA is her fluid form of self-expression, like her shadow, like her unique silhouette.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_alignment": "left",
+        "text_width": 50,
+        "button_style": "auto",
+        "image": "shopify:\/\/shop_images\/Igniting_A_New_Femininity.jpg",
+        "video": "",
+        "image_width": 100,
+        "image_position": "left",
+        "media_size": "contain",
+        "alternate_bg_color": false,
+        "color_bg": ""
+      }
+    },
+    "163661778548502149": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "“It’s a different story of her.”",
+        "title_size": 62,
+        "heading_h1": false,
+        "text": "<p>NOIRANCA represents all that she is. She is powerful, she is refined, she is dangerous. She is not bound by convention.<\/p><p>She does not want to stay normal.<\/p><p>#desiredifferent<\/p>",
+        "image_width": 120,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "auto",
+        "text_alignment": "center",
+        "enlarge_text": false,
+        "full_width": true,
+        "no_padding_bottom": false,
+        "alternate_bg_color": false,
+        "color_bg": "#5f8188"
+      }
+    },
+    "16366177892cb7ec1a": {
+      "type": "image-with-text",
+      "settings": {
+        "subheading": "",
+        "title": "The Moment Beauty is Defined, Its Depth Is Lost",
+        "text": "<p>In a world where the masses wish to blend in, where women try to conform to a socially constructed set of ideals, NOIRANCA questions the norm, deconstructs its definition, and motivates women to simply be themselves. NOIRANCA believes we are all beautiful regardless of our race, views, physique and imperfections. Beauty itself is more inclusive than you think.<\/p><p><\/p><p>When a woman dares to be de-labelled, she turns into a light that flickers in a sea of darkness, with the power to spark and inspire those around her. We believe everyone has the courage to say no to sameness and we are empowering women to challenge themselves to desire different.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_alignment": "left",
+        "text_width": 50,
+        "button_style": "auto",
+        "image": "shopify:\/\/shop_images\/The-Moment-Beauty-is-Defined_-Its-Depth-Is-Lost.jpg",
+        "video": "",
+        "image_width": 100,
+        "image_position": "right",
+        "media_size": "contain",
+        "alternate_bg_color": false,
+        "color_bg": ""
+      }
+    },
+    "163661788942b62ce2": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "“Between black and white,  lay vivacious colors therein.”",
+        "title_size": 62,
+        "heading_h1": false,
+        "text": "<p>We for one are taking the lead in challenging ourselves every day: from selecting materials and our collaborators, to creating our designs, and work only according to our belief:<\/p><p>NOIRANCA is part of your accessory, your complexion, your silhouette that differs from the masses. Different is to want more, to be entirely original.<\/p>",
+        "image_width": 120,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "auto",
+        "text_alignment": "center",
+        "enlarge_text": false,
+        "full_width": false,
+        "no_padding_bottom": false,
+        "alternate_bg_color": false,
+        "color_bg": "#5f8188"
+      }
+    },
+    "1636617892f562874f": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Her-Silhouette_-Her-Contours.jpg",
+        "desktop_image_position": "bottom center",
+        "mobile_image_position": "bottom center",
+        "height": "fixed",
+        "height_desktop": 700,
+        "height_mobile": 500,
+        "subheading": "",
+        "title": "Her Silhouette, Her Contours",
+        "title_size": 92,
+        "heading_h1": false,
+        "text": "<p>“I’m looking for the unexpected. I’m looking for things I’ve never seen before.”<\/p><p>- <em>Robert Mapplethorpe<\/em><\/p>",
+        "enlarge_text": false,
+        "button_label": "",
+        "image_link": "",
+        "overlay_position": "position--hcenter position--vcenter",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style_tint": false
+      }
+    },
+    "1636617943d84bc3fc": {
+      "type": "image-with-text",
+      "settings": {
+        "subheading": "",
+        "title": "The Aesthetics of Complexity",
+        "text": "<p>A bodybuilder who whispers elegance with her composure. An androgynous style icon unconfined by her race and imperfect complexion.<\/p><p>NOIRANCA is inspired by the untold complexity in women, and their multifaceted selves. Imagine an aesthetic that is reflected in the notion of contrast, in a harmony of differences that delves into a symphony of colors and novel shapes. It frees a modern woman from preconceived standards. That is the world of NOIRANCA.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_alignment": "center",
+        "text_width": 60,
+        "button_style": "auto",
+        "image": "shopify:\/\/shop_images\/The-Aesthetics-of-Complexity.jpg",
+        "video": "",
+        "image_width": 100,
+        "image_position": "right",
+        "media_size": "contain",
+        "alternate_bg_color": false,
+        "color_bg": ""
+      }
+    },
+    "16366180492cf15dcc": {
+      "type": "image-with-text",
+      "settings": {
+        "subheading": "",
+        "title": "Shadow In the Light, Light In the Shadow",
+        "text": "<p>In creating our first designs, we were deeply inspired by the powerful black-and-white portraits by American photographer Robert Mapplethorpe, who extracts the originality and beauty of women. His work inspires a visceral – opposite – reaction from the audience. <\/p><p>Each NOIRANCA design is a demarcation of light and darkness, forming remarkably strong contours and fluid silhouettes.<\/p>",
+        "button_label": "Read More about Robert Mapplethorpe",
+        "button_link": "shopify:\/\/pages\/rebel-on-with-robert-mapplethorpe",
+        "text_alignment": "center",
+        "text_width": 60,
+        "button_style": "primary",
+        "image": "shopify:\/\/shop_images\/DSCF4863_af8611e9-3c7e-4a6b-8347-e1fad60797e7.jpg",
+        "video": "",
+        "image_width": 100,
+        "image_position": "left",
+        "media_size": "contain",
+        "alternate_bg_color": false,
+        "color_bg": ""
+      }
+    },
+    "1636619236cd5a4f4d": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "title_size": 60,
+        "heading_h1": false,
+        "text": "<p>Different – it is what NOIRANCA desires.<\/p>",
+        "image_width": 120,
+        "button_label": "Explore our designs",
+        "button_link": "shopify:\/\/collections\/all",
+        "button_style": "auto",
+        "text_alignment": "center",
+        "enlarge_text": false,
+        "full_width": true,
+        "no_padding_bottom": false,
+        "alternate_bg_color": false,
+        "color_bg": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "163661761814986aca",
+    "1636617634bf93cebf",
+    "163661778548502149",
+    "16366177892cb7ec1a",
+    "163661788942b62ce2",
+    "1636617892f562874f",
+    "1636617943d84bc3fc",
+    "16366180492cf15dcc",
+    "1636619236cd5a4f4d"
+  ]
+}

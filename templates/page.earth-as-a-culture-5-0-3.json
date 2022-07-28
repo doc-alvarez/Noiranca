@@ -1,0 +1,79 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "show_page_content": false
+      }
+    },
+    "16377299943b1efabd": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/RackMultipart20210810-4-1p6u2ie.jpg",
+        "desktop_image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "fixed",
+        "height_desktop": 1000,
+        "height_mobile": 400,
+        "subheading": "",
+        "title": "EARTH AS A CULTURE",
+        "title_size": 60,
+        "heading_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label": "",
+        "image_link": "",
+        "overlay_position": "position--hcenter position--vcenter",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style_tint": false
+      }
+    },
+    "1637730012facf418f": {
+      "type": "image-with-text",
+      "settings": {
+        "subheading": "",
+        "title": "Enough for All, If We Take Less And Give More",
+        "text": "<p>Let’s be honest. The problem with sustainability is that it is often an afterthought that brands append to their products. Leaders create visions and rhetoric that look admirable on paper, but change very little in reality. We wanted to tackle this differently – sustainability is not a statement, responsibility nor an add-on, and definitely not an option; it is a building block of NOIRANCA.<\/p><p>It is in fact a culture. Instead of designing bags with sustainability elements, we ask ourselves: \"How do we take less from earth with every NOIRANCA bag we make?\"<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_alignment": "left",
+        "text_width": 50,
+        "button_style": "auto",
+        "image": "shopify:\/\/shop_images\/RackMultipart20210630-4-1s2lqd1.jpg",
+        "video": "",
+        "image_width": 100,
+        "image_position": "right",
+        "media_size": "contain",
+        "alternate_bg_color": false,
+        "color_bg": ""
+      }
+    },
+    "163773070676d4dd21": {
+      "type": "image-with-text",
+      "settings": {
+        "subheading": "",
+        "title": "A Perfect Balance,\nBetween Eco and Luxe",
+        "text": "<p>Despite the contradiction between fashion and the concept of sustainability, we believe fashion can indeed be a force for good. And we are starting from ourselves. Every decision we make is rooted in our respect for the earth, and a step closer to achieving carbon neutral.<\/p><p>From our <a href=\"https:\/\/www.noiranca.com\/pages\/our-impact\">packaging<\/a>, and <a href=\"https:\/\/www.noiranca.com\/pages\/our-impact\">supply chain<\/a>, to the <a href=\"https:\/\/www.noiranca.com\/pages\/our-different-vegan-leather\">PETA- Approved Vegan Leather<\/a> that we use and our philanthropic promise, we want to take less and ensure that sustainability is the reason behind our creation, in turn empowering consumption and fashion.<\/p><p>We believe it is time that we incorporate \"earth\" in the fashion culture. It is time that we stand for a different vision.<\/p><p>Find out more about <a href=\"https:\/\/www.noiranca.com\/pages\/our-impact\">our impact<\/a>.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_alignment": "left",
+        "text_width": 50,
+        "button_style": "auto",
+        "image": "shopify:\/\/shop_images\/RackMultipart20210630-4-jnr3yx.jpg",
+        "video": "",
+        "image_width": 100,
+        "image_position": "left",
+        "media_size": "contain",
+        "alternate_bg_color": false,
+        "color_bg": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16377299943b1efabd",
+    "1637730012facf418f",
+    "163773070676d4dd21"
+  ]
+}

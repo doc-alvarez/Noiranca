@@ -1,0 +1,365 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "show_page_content": false
+      }
+    },
+    "1637816381f977be3f": {
+      "type": "rich-text",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "title": "OUR IMPACT",
+        "title_size": 60,
+        "heading_h1": false,
+        "text": "",
+        "image_width": 120,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "auto",
+        "text_alignment": "center",
+        "enlarge_text": false,
+        "full_width": false,
+        "no_padding_bottom": false,
+        "alternate_bg_color": false,
+        "color_bg": ""
+      }
+    },
+    "1637739632666c9d38": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/RackMultipart20210707-4-14iq8yx.jpg",
+        "desktop_image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "fixed",
+        "height_desktop": 1000,
+        "height_mobile": 400,
+        "subheading": "",
+        "title": "OUR IMPACT",
+        "title_size": 60,
+        "heading_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label": "",
+        "image_link": "",
+        "overlay_position": "position--hcenter position--vcenter",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style_tint": false
+      }
+    },
+    "1637816456ca16e88d": {
+      "type": "rich-text",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "title": "Doors Opened,\nInto the Future of Fashion",
+        "title_size": 60,
+        "heading_h1": false,
+        "text": "<p>As part of the fashion industry, one of the most resource intensive on earth, we must acknowledge our impact on nature. In doing so, we also begin to imagine a different approach to fashion, using our collective power as an industry to slowly turn our footprint into positive impact.<\/p><p><\/p><p><em>\"Greener delights upon a greener earth.\"<\/em><\/p><p><\/p><p>Leather, fabrics, packaging and production all use water, chemicals, and resources that most people rarely think about, or see. So, let’s be transparent and talk about how we can begin to make a change, because the more we know, the better our decisions can be made, and the more we cherish what we have. Then, the less we, and you, will need.<\/p>",
+        "image": "shopify:\/\/shop_images\/RackMultipart20210630-4-543hno.jpg",
+        "image_width": 520,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "auto",
+        "text_alignment": "center",
+        "enlarge_text": false,
+        "full_width": false,
+        "no_padding_bottom": false,
+        "alternate_bg_color": false,
+        "color_bg": ""
+      }
+    },
+    "163773969752555431": {
+      "type": "image-with-text",
+      "settings": {
+        "subheading": "",
+        "title": "Doors Opened,\nInto the Future of Fashion",
+        "text": "<p>As part of the fashion industry, one of the most resource intensive on earth, we must acknowledge our impact on nature. In doing so, we also begin to imagine a different approach to fashion, using our collective power as an industry to slowly turn our footprint into positive impact.<\/p><p><\/p><p><em>\"Greener delights upon a greener earth.\"<\/em><\/p><p><\/p><p>Leather, fabrics, packaging and production all use water, chemicals, and resources that most people rarely think about, or see. So, let’s be transparent and talk about how we can begin to make a change, because the more we know, the better our decisions can be made, and the more we cherish what we have. Then, the less we, and you, will need.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_alignment": "left",
+        "text_width": 50,
+        "button_style": "auto",
+        "image": "shopify:\/\/shop_images\/RackMultipart20210630-4-543hno.jpg",
+        "video": "",
+        "image_width": 100,
+        "image_position": "right",
+        "media_size": "contain",
+        "alternate_bg_color": false,
+        "color_bg": ""
+      }
+    },
+    "163773984204337afd": {
+      "type": "image-with-text",
+      "settings": {
+        "subheading": "",
+        "title": "Ahimsa, None of the Animals",
+        "text": "<p>As advocates of Ahimsa, the principle of non-violence, we at NOIRANCA have decided to be 100% against animal cruelty. No exotic skin, fur or leather will ever be used in our designs, and we have taken a different approach by using our <a href=\"https:\/\/www.noiranca.com\/pages\/our-different-vegan-leather\">PETA-Approved Vegan Leather<\/a> for the majority of our bags. This eco-friendly leather is DMF-free, with a low environmental impact and is soft like the morning rays.<\/p><p><\/p>",
+        "button_label": "Find out more about our vegan leather",
+        "button_link": "",
+        "text_alignment": "left",
+        "text_width": 50,
+        "button_style": "primary",
+        "image": "shopify:\/\/shop_images\/RackMultipart20210630-4-2u5jd8.jpg",
+        "video": "",
+        "image_width": 100,
+        "image_position": "left",
+        "media_size": "contain",
+        "alternate_bg_color": false,
+        "color_bg": ""
+      }
+    },
+    "1637740037df32be1a": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "Responsible Supply Chain, Responsible Vegan Leather",
+        "title_size": 44,
+        "heading_h1": false,
+        "text": "<p>Apart from our design, how we create them and with whom also reflect NOIRANCA’s different approach to fashion. When choosing our suppliers we follow a strict selection process to make sure our suppliers are all aligned to our <a href=\"https:\/\/noiranca.myshopify.com\/pages\/earth-as-a-culture\">vision of \"Earth as a Culture<\/a>\".<\/p><p>Our suppliers must first implement strict environmental standards, such as meeting EU REACH and US CA65 standards, and obtaining the ISO9001 certification, to demonstrate that they are committed to protecting the environment and water sources from toxic chemicals, and informing the public about the risks that can be posed by them.<\/p><p>On a mission to making a cleaner planet, our suppliers have undergone detailed analysis and research on each material they use. Screening over 75% of the handbags in the world, our suppliers garnered first-hand breakdown of harmful materials - pondering the environmental, social and supply impacts - and thereby selected the ideal recycled materials for us.<\/p>",
+        "image_width": 120,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "auto",
+        "text_alignment": "left",
+        "enlarge_text": false,
+        "full_width": false,
+        "no_padding_bottom": false,
+        "alternate_bg_color": true,
+        "color_bg": ""
+      }
+    },
+    "1637740091d4e14508": {
+      "type": "gallery",
+      "blocks": {
+        "16377400914e6b5dd6-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/RackMultipart20210707-4-1xpem8g.jpg",
+            "video": "",
+            "desktop_image_position": "center center",
+            "mobile_image_position": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--hcenter position--vcenter"
+          }
+        },
+        "16377400914e6b5dd6-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/RackMultipart20210707-4-chlh5t.jpg",
+            "video": "",
+            "desktop_image_position": "center center",
+            "mobile_image_position": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--hcenter position--vcenter"
+          }
+        },
+        "16377400914e6b5dd6-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/RackMultipart20210707-4-1o3j91w.jpg",
+            "video": "",
+            "desktop_image_position": "center center",
+            "mobile_image_position": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--hcenter position--vcenter"
+          }
+        },
+        "59447dd6-e7b4-4728-82d7-23a1524faeb3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/RackMultipart20210707-4-j5q1gj.jpg",
+            "video": "",
+            "desktop_image_position": "center center",
+            "mobile_image_position": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--hcenter position--vcenter"
+          }
+        }
+      },
+      "block_order": [
+        "16377400914e6b5dd6-0",
+        "16377400914e6b5dd6-1",
+        "16377400914e6b5dd6-2",
+        "59447dd6-e7b4-4728-82d7-23a1524faeb3"
+      ],
+      "settings": {
+        "title": "",
+        "grid": 4,
+        "desktop_image_height": 300,
+        "mobile_image_height": 400,
+        "title_size": 44,
+        "enable_margin": false,
+        "full_width": true,
+        "enable_carousel": true,
+        "overlay_style_tint": false,
+        "alternate_bg_color": false
+      }
+    },
+    "163774035312f1935d": {
+      "type": "image-with-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "text": "<p>We also work exclusively with suppliers who provide product traceability, and create safe, healthy and fair working conditions to their artisans, who are the heart and soul of every supply chain. As for the materials, they are all sourced locally near our production facilities to support local businesses and keep our imprint small.<\/p><p>As much as sustainability is about using vegan leather, it is also about keeping up an all-round sensibility regarding energy conservation – our suppliers take into consideration water input, energy input, land use, eco-toxicity, greenhouse gas emissions and human toxicity.<\/p><p>The use of express air freight, which is the most carbon-intensive mode of shipping, is also avoided at NOIRANCA. Our direct-to-customer and digital-only approach helps lower our cost, making sustainable fashion accessible to more people.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_alignment": "left",
+        "text_width": 50,
+        "button_style": "auto",
+        "image": "shopify:\/\/shop_images\/RackMultipart20210913-4-13h077p.jpg",
+        "video": "",
+        "image_width": 100,
+        "image_position": "right",
+        "media_size": "contain",
+        "alternate_bg_color": false,
+        "color_bg": ""
+      }
+    },
+    "1637740363664e23ac": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/RackMultipart20210706-4-9y0csm.jpg",
+        "desktop_image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "natural",
+        "height_desktop": 450,
+        "height_mobile": 400,
+        "subheading": "",
+        "title": "Waste, As Low As\nPossible",
+        "title_size": 60,
+        "heading_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label": "",
+        "image_link": "",
+        "overlay_position": "position--hcenter position--vcenter",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style_tint": true
+      }
+    },
+    "1637740644b0259c38": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "title_size": 60,
+        "heading_h1": false,
+        "text": "<p>We all know that fashion is one of the most wasteful industries on earth, but it does not have to stay that way. Along with other environmentally conscious fashion houses, NOIRANCA is doing things differently to limit what we take from the earth, and leave behind.<\/p><p>Since the beginning, we have opted for an \"In House First\" approach when producing our prototypes. We prioritize surplus materials that we already have on hand to avoid wastage and unnecessary shipping whenever possible. In addition, as part of our commitment to reaching circularity, majority of these surplus materials that we use and reuse have a viable recycling solution.<\/p><p><em>\"It all comes down to limiting what we take, and leave behind.\"<\/em><\/p><p>We also produce handbags in limited quantities only, and carry out thorough pre-production assessments for every design. To further limit wastage, we offer pre-orders at times to better predict the demand of NOIRANCA bags. It may mean a bit of waiting time for you, but we promise it is well worth it.<\/p><p>Feedback is very important for us, because your comments help us make better decisions, and create better designs that you will adore and keep for longer. Lastly, by going digital-only – from pre-ordering to invoicing – we have estimated that 5 sheets of paper are saved per order, which is roughly 0.0001% of a tree. Every tiny step counts.<\/p>",
+        "image_width": 120,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "auto",
+        "text_alignment": "left",
+        "enlarge_text": false,
+        "full_width": false,
+        "no_padding_bottom": false,
+        "alternate_bg_color": false,
+        "color_bg": ""
+      }
+    },
+    "1637740647f837e19e": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/RackMultipart20210706-4-j87t3n.jpg",
+        "desktop_image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "natural",
+        "height_desktop": 450,
+        "height_mobile": 400,
+        "subheading": "",
+        "title": "Wrapped\nConscientiously",
+        "title_size": 60,
+        "heading_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label": "",
+        "image_link": "",
+        "overlay_position": "position--hcenter position--vcenter",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style_tint": true
+      }
+    },
+    "1637740939474ba2f1": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "title_size": 60,
+        "heading_h1": false,
+        "text": "<p>Packaging is often the sustainability blind spot in fashion, so it is our goal to handle it delicately, differently. When you receive your NOIRANCA handbag, you will be unboxing the eco-friendly #MyNoirancaBox made of FSC-certified recycled cardboard and paper. Being green and rigid, the box is designed for reuse. We encourage you to share how you reuse it on Instagram with #MyNoirancaBox, and inspire others.<\/p><p><em>\"Inspo comes with #MyNoirancaBox,<br\/>boundless and infinite.\" <\/em><\/p><p>If you want to recycle it, the NOIRANCA Box is printed in 100% soy ink, which degrades more than 4 times as completely as standard inks, making our cardboard and paper much easier to recycle. Also protecting your NOIRANCA is a beautiful dust bag made of recycled cotton. We think you will like it as much as we do.<\/p>",
+        "image_width": 120,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "auto",
+        "text_alignment": "left",
+        "enlarge_text": false,
+        "full_width": false,
+        "no_padding_bottom": false,
+        "alternate_bg_color": true,
+        "color_bg": ""
+      }
+    },
+    "163774103486147b7e": {
+      "type": "image-with-text",
+      "settings": {
+        "subheading": "",
+        "title": "Art of Permanence",
+        "text": "<p>Permanence is one of the guiding principles at NOIRANCA. Choosing not to follow trends and traditional fashion seasons, we are firm believers of slow consumption. All our bags are designed to be timeless, as we want them to be as versatile as possible. This way we are not only creating lasting styles but also reducing production, in turn creating less sampling, packaging and printing.<br\/><br\/><\/p><p><em>\"A Timelessly Chic,<br\/>Statement-making bag.\"<\/em><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_alignment": "left",
+        "text_width": 50,
+        "button_style": "auto",
+        "image": "shopify:\/\/shop_images\/RackMultipart20210706-4-1v0o83b.jpg",
+        "video": "",
+        "image_width": 100,
+        "image_position": "left",
+        "media_size": "cover",
+        "alternate_bg_color": false,
+        "color_bg": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1637816381f977be3f",
+    "1637739632666c9d38",
+    "1637816456ca16e88d",
+    "163773969752555431",
+    "163773984204337afd",
+    "1637740037df32be1a",
+    "1637740091d4e14508",
+    "163774035312f1935d",
+    "1637740363664e23ac",
+    "1637740644b0259c38",
+    "1637740647f837e19e",
+    "1637740939474ba2f1",
+    "163774103486147b7e"
+  ]
+}

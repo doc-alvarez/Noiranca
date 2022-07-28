@@ -1,0 +1,166 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "show_page_content": false
+      }
+    },
+    "1637834104704e2edb": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/RackMultipart20210707-4-18z1tve.jpg",
+        "desktop_image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "fixed",
+        "height_desktop": 1000,
+        "height_mobile": 400,
+        "subheading": "",
+        "title": "OUR DIFFERENT VEGAN LEATHER",
+        "title_size": 60,
+        "heading_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label": "",
+        "image_link": "",
+        "overlay_position": "position--hcenter position--vcenter",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style_tint": true
+      }
+    },
+    "1637834240b9de8c5f": {
+      "type": "image-with-text",
+      "settings": {
+        "subheading": "",
+        "title": "PETA-Approved  Vegan Leather",
+        "text": "<p>In the ephemeral fashion industry, thousands of millions of animals are harmed at the expense of leather-making. Behind the smooth leather items are callous actions of skin-tearing that go beyond our imaginations. Our signature vegan leather is approved by PETA, the largest international animal rights organisation, proving our bags are made from vegan alternatives to animal-derived materials. Now, we’re a step closer to a cruelty-free world.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_alignment": "left",
+        "text_width": 50,
+        "button_style": "auto",
+        "image": "shopify:\/\/shop_images\/RackMultipart20211123-4-1k62ffv.jpg",
+        "video": "",
+        "image_width": 100,
+        "image_position": "left",
+        "media_size": "contain",
+        "alternate_bg_color": false,
+        "color_bg": ""
+      }
+    },
+    "16378342577a24bc5d": {
+      "type": "image-with-text",
+      "settings": {
+        "subheading": "",
+        "title": "Know For A Reason, Do For A Future",
+        "text": "<p>Knowing is half of the journey. For long we all have learned that traditional leather production is unfortunately one of the most wasteful in the industry. Yet, some chose to be oblivious of its cruelty whilst venerating leather products, till today.<\/p><p><br\/>Behind the smooth texture is immense use of natural resources, such as animal feed, water, and land, often made available from felling trees. Then comes animal cruelty – too appalling to be written here – and over 250 chemicals used in and discharged from tanneries, many of them toxic and non-biodegradable, like chromium and formaldehyde resins.<\/p><p><br\/>The other half of the journey is on what we do with that knowledge. Shocked by our research, the first commitment we made was to opt for an environmental-friendly material as our main fabric – vegan leather.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_alignment": "left",
+        "text_width": 50,
+        "button_style": "auto",
+        "image": "shopify:\/\/shop_images\/RackMultipart20210809-4-e0887k.jpg",
+        "video": "",
+        "image_width": 100,
+        "image_position": "right",
+        "media_size": "contain",
+        "alternate_bg_color": false,
+        "color_bg": ""
+      }
+    },
+    "16381597200def841c": {
+      "type": "image-with-text",
+      "settings": {
+        "subheading": "",
+        "title": "Some \"Vegan\" Aren’t That Vegan",
+        "text": "<p>A few fashion labels have already begun the switch from traditional animal leather to \"vegan leather\", an umbrella term for non-animal materials, which includes synthetics material and biomaterial such as cork, pineapple, and even reishi.<\/p><p><br\/>Now comes the confusing part: in spite of its name, not all vegan leathers are environmentally friendly. Traditional synthetic leather is mainly made from plastic-based polyvinyl chloride (PVC) and oil-based polyurethane (PU). In producing these, hazardous toxins that are not fully biodegradable are released into our ecosystem. The material is also easily worn out, usually within 36 months. Some \"vegan leather\" developed from biomaterial are biodegradable and eco-friendly to the environment, yet having sampled most of them, we have found out that none offers the versatility we need in terms of the luxury texture, as well as color options and production scalability.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_alignment": "left",
+        "text_width": 50,
+        "button_style": "auto",
+        "image": "shopify:\/\/shop_images\/RackMultipart20210707-4-1vaj854.jpg",
+        "video": "",
+        "image_width": 100,
+        "image_position": "left",
+        "media_size": "contain",
+        "alternate_bg_color": false,
+        "color_bg": ""
+      }
+    },
+    "1638862651f3884a63": {
+      "type": "custom-html",
+      "settings": {
+        "no_margins": true,
+        "custom_liquid": "<head>\n  <script src=\"https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/3.5.1\/jquery.min.js\"><\/script>\n  <link rel=\"stylesheet\" href=\"https:\/\/noiranca.myshopify.com\/services\/assets\/128760021225\/editor_asset\/styles.css\">\n<\/head>\n\n<style>\n  .percentage,\n  .counter-value {\n    display: inline;\n    font-size: 50px;\n    color: #95cac8;\n  }\n\n  @media (max-width: 767px) {\n\n    .rte p,\n    .feature-header {\n      text-align: left !important;\n    }\n  }\n<\/style>\n\n<div class=\"section-spacing wide-container\" style=\"padding-bottom: 0px; background-color: #5F8188\">\n  <div class=\"content transparent align-center reading-width\">\n\n    <h2 class=\"feature-header align-center cc-fade-in-up cc-animate-init feature-header--visible -in cc-animate-complete\" data-cc-animate=\"cc-fade-in-up\" data-cc-animate-delay=\"0.2s\" style=\"font-size: 45px; color: white\">\n      A Different Vegan Leather Is Needed\n    <\/h2>\n\n    <div class=\"rte inherit-colors align-center cc-fade-in-up cc-animate-init -in cc-animate-complete\" data-cc-animate=\"cc-fade-in-up\" data-cc-animate-delay=\"0.3s\" data-live-text-setting=\"section.template--15428819353833__163886264736dc8bcf.text\" style=\"color: white\">\n      <p>To our blessings, we have found a producer that can create NOIRANCA’s signature vegan leather without compromising on texture and quality. Made from DMF-free, water-based PU, which replaces organic solvents with water, our special vegan leather contains zero volatile organic compounds, and consists of around 58% recycled elements – post-consumer recycled polyester and pre-consumer recycled polyurethane.<\/p>\n    <\/div>\n    <div id=\"counter\" style=\"text-align: center; padding-top: 30px\" ;>\n      <div class=\"counter-value\" data-count=\"58\">0<\/div>\n      <div class=\"percentage\">%<\/div>\n    <\/div>\n    <div class=\"rte inherit-colors align-center cc-fade-in-up cc-animate-init -in cc-animate-complete\" data-cc-animate=\"cc-fade-in-up\" data-cc-animate-delay=\"0.3s\" data-live-text-setting=\"section.template--15428819353833__163886264736dc8bcf.text\" style=\"color: white\">\n      <p style=\"text-align: center!important\">percentage of recycled materials in NOIRANCA’s vegan leather<br><\/p>\n      <p><br>Our vegan leather meets both EU REACH and US CA65 standards, which validate that during its production process, our producer has improved the protection of human health and the environment from the risks that can be posed by chemicals.<\/p>\n    <\/div>\n  <\/div>\n<\/div>\n\n<script>\n  var a = 0;\n  $(window).scroll(function() {\n    var oTop = $('#counter').offset().top - window.innerHeight;\n    if (a == 0 && $(window).scrollTop() > oTop) {\n      $('.counter-value').each(function() {\n        var $this = $(this),\n          countTo = $this.attr('data-count');\n        $({\n          countNum: $this.text()\n        }).animate({\n          countNum: countTo\n        }, {\n          duration: 3000,\n          easing: 'swing',\n          step: function(now) {\n            $this.text(now.toFixed(1));\n          },\n        });\n      });\n      a = 1;\n    }\n  });\n<\/script>"
+      }
+    },
+    "1638870960196ed6dd": {
+      "type": "custom-html",
+      "settings": {
+        "no_margins": true,
+        "custom_liquid": "<head>\n  <script src=\"https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/3.5.1\/jquery.min.js\"><\/script>\n  <link rel=\"stylesheet\" href=\"https:\/\/noiranca.myshopify.com\/services\/assets\/128760021225\/editor_asset\/styles.css\">\n<\/head>\n\n<style>\n  .percentage,\n  .counter-value {\n    display: inline;\n    font-size: 50px;\n    color: #95cac8;\n  }\n<\/style>\n\n<div class=\"section-spacing wide-container\" style=\"padding-bottom: 0px; background-color: #5F8188\">\n  <div class=\"content transparent align-center reading-width\">\n\n    <h2 class=\"feature-header align-center cc-fade-in-up cc-animate-init feature-header--visible -in cc-animate-complete\" data-cc-animate=\"cc-fade-in-up\" data-cc-animate-delay=\"0.2s\" style=\"font-size: 45px; color: white\">\n      Lower, Lighter Impact\n    <\/h2>\n\n    <div class=\"rte inherit-colors align-center cc-fade-in-up cc-animate-init -in cc-animate-complete\" data-cc-animate=\"cc-fade-in-up\" data-cc-animate-delay=\"0.3s\" data-live-text-setting=\"section.template--15428819353833__163886264736dc8bcf.text\" style=\"color: white\">\n      <p>Unlike animal leather and traditional synthetic leather, NOIRANCA’s signature vegan leather is the lightest, thus lowering carbon emission during shipping; it also creates the lowest level of toxic pollution during production, and is over 40% and 300% more durable, respectively.<\/p>\n    <\/div>\n    <div id=\"counter\" style=\"text-align: center; padding-top: 30px\" ;>\n      <div class=\"counter-value\" data-count=\"40\">0<\/div>\n      <div class=\"percentage\">%<\/div>\n    <\/div>\n    <div class=\"rte inherit-colors align-center cc-fade-in-up cc-animate-init -in cc-animate-complete\" data-cc-animate=\"cc-fade-in-up\" data-cc-animate-delay=\"0.3s\" data-live-text-setting=\"section.template--15428819353833__163886264736dc8bcf.text\" style=\"color: white\">\n      <p style=\"text-align: center!important\">more durable than traditional leather and matches it in texture and quality<br><\/p>\n      <p><br>No doubt, our vegan leather is on par with traditional leather in terms of tactility and quality, and even, outperforms traditional synthetic leather. Compared to animal leather, traditional synthetic leather and biomaterial leather, our vegan leather is smooth, sophisticated, and the lightest in weight, among all.<\/p>\n    <\/div>\n  <\/div>\n<\/div>\n\n<script>\n  var a = 0;\n  $(window).scroll(function() {\n    var oTop = $('#counter').offset().top - window.innerHeight;\n    if (a == 0 && $(window).scrollTop() > oTop) {\n      $('.counter-value').each(function() {\n        var $this = $(this),\n          countTo = $this.attr('data-count');\n        $({\n          countNum: $this.text()\n        }).animate({\n          countNum: countTo\n        }, {\n          duration: 3000,\n          easing: 'swing',\n          step: function(now) {\n            $this.text(now.toFixed(1));\n          },\n        });\n      });\n      a = 1;\n    }\n  });\n<\/script>"
+      }
+    },
+    "163815977716f81459": {
+      "type": "custom-html",
+      "settings": {
+        "no_margins": true,
+        "custom_liquid": "<html>\n\n<head>\n  <link rel=\"stylesheet\" href=\"https:\/\/noiranca.myshopify.com\/services\/assets\/128760021225\/editor_asset\/styles.css\">\n<\/head>\n<style>\n  .accordion {\n    background-color: #5F8188;\n    color: white;\n    cursor: pointer;\n    padding: 15px;\n    width: 100%;\n    border: 1px solid #5F8188;\n    border-radius: 0px;\n    text-align: left;\n    font-size: 15px;\n    transition: 0.4s;\n  }\n\n  .active,\n  .accordion:hover {\n    background-color: #5F8188 !important;\n    color: white !important;\n  }\n  \n\n\n  .accordion:after {\n    content: '\\002B';\n    color: white;\n    font-size: 15px;\n    font-weight: bold;\n    float: right;\n    margin-left: 5px;\n  }\n\n  .active:after {\n    content: \"\\2212\";\n  }\n\n  .panel {\n    padding: 0px 0px 0px 30px;\n    text-align: left;\n    font-size: 12px;\n    color: white;\n    background-color: #5F8188;\n    max-height: 0;\n    margin: 0 0 3px 0;\n    overflow: hidden;\n    transition: max-height 0.3s ease-out;\n    border-bottom: 2px solid #B2C3CB;\n  }\n<\/style>\n\n<body>\n  <div class=\"section-spacing wide-container\" style=\"padding-top: 0px; background-color: #5F8188\">\n    <div class=\"content transparent align-center reading-width\">\n      <div class=\"rte inherit-colors align-center cc-fade-in-up cc-animate-init -in cc-animate-complete\" data-cc-animate=\"cc-fade-in-up\" data-cc-animate-delay=\"0.3s\" data-live-text-setting=\"section.template--15428819353833__163886264736dc8bcf.text\" style=\"\">\n        <br>\n        <p style=\"color: white\">Indulge yourselves in feeling our vegan leather and get ready to be addled by its realness..<\/p><br>\n      <\/div>\n\n      <button class=\"accordion active\">NOIRANCA Signature Vegan Leather<\/button>\n      <div class=\"panel\" style=\"max-height: 500px;\">\n        <p>Material Composition: Non-toxic<br>\n          Durability: 6-10 Years<br>\n          Quality & Texture: Smooth, sophisticated, lightest in weight.<\/p>\n      <\/div>\n\n      <button class=\"accordion\">Animal Leather<\/button>\n      <div class=\"panel\">\n        <p>Material Composition: Animal skin and toxic chemicals<br>\n          Durability: 7 Years<br>\n          Quality & Texture: Soft, natural<\/p>\n      <\/div>\n\n      <button class=\"accordion\">Traditional Synthetic Leather<\/button>\n      <div class=\"panel\">\n        <p>Material Composition: Harmful organic solvents and chemicals<br>\n          Durability: 3 Years<br>\n          Quality & Texture: Cheap, rough<\/p>\n      <\/div>\n\n      <button class=\"accordion\">Biomaterial Leather<\/button>\n      <div class=\"panel\">\n        <p>Material Composition: Developed through fiber re-engineering from natural materials<br>\n          Durability: Vary depends on exact material<br>\n          Quality & Texture: Still at incubation stage. Limited in color options, material size and scalability, rough and thick texture<\/p>\n      <\/div>\n      <p style=\"color: white; font-style: italic;\"><br>Other Ecological Performance of Our Signature Vegan Leather:<br><\/p>\n      <p style=\"color: white;\"> 90% Reduction of Effluent Discharge<br>\n        80% Reduction of Energy Consumption<br>\n        75% Reduction of Carbon Emissions<\/p>\n    <\/div>\n  <\/div>\n\n  <script>\n    var acc = document.getElementsByClassName(\"accordion\");\n    var i;\n    for (i = 0; i < acc.length; i++) {\n      acc[i].addEventListener(\"click\", function() {\n        this.classList.toggle(\"active\");\n        var panel = this.nextElementSibling;\n        if (panel.style.maxHeight) {\n          panel.style.maxHeight = null;\n        } else {\n          panel.style.maxHeight = panel.scrollHeight + \"px\";\n        }\n      });\n    }\n  <\/script>\n\n<\/body>\n\n<\/html>"
+      }
+    },
+    "16389319836cdd1d9f": {
+      "type": "image-with-text",
+      "settings": {
+        "subheading": "",
+        "title": "A Promise,\nNow Or Never",
+        "text": "<p>The \"vegan gear\" is on – full-on. It is of paramount importance that a fashion label strikes a balance between product quality and our footprint, especially in the current climate. Though our decision to use a special vegan leather is challenging and different from the industry norm, we are here to take a leap to the future.<\/p><p><br\/><\/p><p>Better, and more, leather alternatives will spring up soon, it is almost palpable as the fashion world is switching to a more sustainable path. With a never-stopping ambition, we will keep exploring different materials – so too investing in other more eco-friendly, recycled or recyclable alternatives – in order to move closer to our carbon-neutral vision.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_alignment": "left",
+        "text_width": 50,
+        "button_style": "auto",
+        "image": "shopify:\/\/shop_images\/RackMultipart20210707-4-r1pc1q.jpg",
+        "video": "",
+        "image_width": 100,
+        "image_position": "left",
+        "media_size": "contain",
+        "alternate_bg_color": false,
+        "color_bg": ""
+      }
+    },
+    "16389321511dd7a5c6": {
+      "type": "image-with-text",
+      "settings": {
+        "subheading": "",
+        "title": "Non-stop And Ahead,\nFor Fashion",
+        "text": "<p>Our work does not end here. We are also uncovering different sustainability measures behind the scenes, from packaging to printing, to further offset our ecological footprint. Inspired by women who dare to be different, we believe every person and brand must dare to dream and stay out of bounds for what they believe is right. We firmly believe that with the right sustainability approach, fashion can be a force for good, even if goes against the industry grain. It is our commitment to the earth; it is our culture.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_alignment": "left",
+        "text_width": 50,
+        "button_style": "auto",
+        "image": "shopify:\/\/shop_images\/RackMultipart20210707-4-s2a751.jpg",
+        "video": "",
+        "image_width": 100,
+        "image_position": "right",
+        "media_size": "contain",
+        "alternate_bg_color": false,
+        "color_bg": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1637834104704e2edb",
+    "1637834240b9de8c5f",
+    "16378342577a24bc5d",
+    "16381597200def841c",
+    "1638862651f3884a63",
+    "1638870960196ed6dd",
+    "163815977716f81459",
+    "16389319836cdd1d9f",
+    "16389321511dd7a5c6"
+  ]
+}

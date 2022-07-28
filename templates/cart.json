@@ -1,0 +1,20 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-cart",
+      "settings": {
+        "cart_show_title": true,
+        "cart_terms_show": false,
+        "cart_terms_page": "shopify:\/\/policies\/refund-policy",
+        "continue_shopping_page": "",
+        "cart_note_show": false,
+        "show_tax_and_shipping": false,
+        "show_additional_checkout_buttons": true,
+        "show_backorder_text": true
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

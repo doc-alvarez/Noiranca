@@ -1,0 +1,656 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor_and_type": {
+          "type": "vendor_and_type",
+          "disabled": true,
+          "settings": {
+            "show_vendor": true,
+            "show_type": false
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_h1": true
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "cbbbd3c2-9b65-4455-8f25-cd380a87e009": {
+          "type": "richtext",
+          "settings": {
+            "text": "<p>$1 of your purchase goes to the charity of your choice with <a href=\"https:\/\/www.iequalchange.com\/brand\/noiranca\/\" target=\"_blank\" title=\"https:\/\/www.iequalchange.com\/brand\/noiranca\/\"><span style=\"text-decoration:underline\">i=Change®<\/span><\/a><\/p>"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_tax_and_shipping": false,
+            "show_quantity_selector": false,
+            "enable_payment_button": true,
+            "show_pickup_availability": false
+          }
+        },
+        "tabs": {
+          "type": "tabs",
+          "settings": {
+            "description_style": "accordion_closed",
+            "show_product_description": true,
+            "tab_2_page": "",
+            "tab_2_title": "Material & Sustainability",
+            "tab_2_content": "<p>Having our planet in mind, our bags bridge premium quality with sustainability. All our bags are handcrafted by skillful artisans in an audited family atelier, with sustainably sourced and 100% traceable eco-conscious materials, blending traditional craftsmanship with novel designs.<\/p><p>Made from DMF-free, water-based PU, our signature PETA-Approved vegan leather consists of 58% recycled elements, and contains zero volatile organic compounds. It meets both EU REACH and US CA65 standards – completely vegan and cruelty-free.<\/p><p>Our packaging is made of recycled cardboard and paper sourced from FSC accredited suppliers, and printed in 100% soy ink which degrades much faster for recycle. Also, our dust bag is made of GRS-certified recycled cotton, giving utmost protection to the handbags.<\/p>",
+            "tab_3_page": "",
+            "tab_3_title": "Measurement & Fit",
+            "tab_3_content": "<p>- H 14cm, W 32cm, D 8cm<br\/>- Chain Drop: 20cm<br\/>- Chain Length: 47cm<\/p><p>A slouchy clutch bag for lazy afternoons on weekends that accommodates all your essentials, including a iPhone 13 Pro Max, purse, keys, hand sanitizer and lipstick.<\/p>",
+            "tab_4_page": "",
+            "tab_4_title": "Shipping & Returns",
+            "tab_4_content": "<p>We offer <strong>FREE SHIPPING<\/strong> to most international destinations so that everyone can enjoy our pieces. <\/p><p>Most orders are shipped within 1-3 business days, pending availability and any credit card verification. As soon as the orders are shipped, it’s estimated that US customers will receive the order within 3-7 business days; while it may take 3-10 business days for international orders.<\/p><p>Shipping time may vary depending on your location, but rest assured we work our hardest to get your order as quickly as possible.<\/p><p>We accept returns within 7 days of delivery receipt for all full price bags in same and unused condition, but we are unable to offer pre-paid return labels to cover the cost of return shipping. Simply send a return request to <a href=\"mailto:support@noiranca.com\" target=\"_blank\">support@noiranca.com<\/a>. Once we receive your return, we will refund your order minus any shipping fees.<\/p>"
+          }
+        },
+        "190a0c49-ec2e-48df-8592-6ff31d2af038": {
+          "type": "trust_icons",
+          "disabled": true,
+          "settings": {
+            "icon_size": 50,
+            "show_icon1": true,
+            "text1": "<p><strong>Free International Shipping<\/strong><\/p><p>On All Orders<\/p>",
+            "icon1": "check_mark",
+            "image1": "shopify:\/\/shop_images\/Artboard_1_116803df-50dd-4b8e-9c50-87434f91da9c.jpg",
+            "show_icon2": true,
+            "text2": "<p>Trust label<\/p>",
+            "icon2": "check_mark",
+            "image2": "shopify:\/\/shop_images\/Artboard_3.jpg",
+            "show_icon3": true,
+            "text3": "<p>Trust label<\/p>",
+            "icon3": "check_mark",
+            "image3": "shopify:\/\/shop_images\/Artboard_2.jpg",
+            "show_icon4": false,
+            "text4": "<p>Trust label<\/p>",
+            "icon4": "check_mark"
+          }
+        }
+      },
+      "block_order": [
+        "vendor_and_type",
+        "title",
+        "price",
+        "cbbbd3c2-9b65-4455-8f25-cd380a87e009",
+        "buy_buttons",
+        "tabs",
+        "190a0c49-ec2e-48df-8592-6ff31d2af038"
+      ],
+      "settings": {
+        "media_style": "two-column",
+        "cart_type": "",
+        "full_width": true,
+        "sticky_product_form": true,
+        "enable_mobile_sticky_cart": true,
+        "show_backorder_text": false,
+        "show_inventory_notice": false,
+        "inventory_notice_threshold": 10,
+        "slide_nav_style": "dots",
+        "show_thumbnails": true,
+        "enable_zoom": true,
+        "enable_video_looping": true,
+        "scroll_to_variant_media": true
+      }
+    },
+    "16588218336b4ffb6d": {
+      "type": "custom-html",
+      "settings": {
+        "no_margins": true,
+        "custom_liquid": "<p style=\"text-align: center; font-size: 22px; padding: 50px; background-color: #eaeaea; margin: 0px; letter-spacing: 2px;\">FEATURED IN<\/p>"
+      }
+    },
+    "1658818430a588f0c2": {
+      "type": "gallery",
+      "blocks": {
+        "16588184309f2bfc05-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/press_mobile01b.jpg",
+            "video": "",
+            "desktop_image_position": "center center",
+            "mobile_image_position": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--hcenter position--vcenter"
+          }
+        },
+        "16588184309f2bfc05-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/press_mobile02b.jpg",
+            "video": "",
+            "desktop_image_position": "center center",
+            "mobile_image_position": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--hcenter position--vcenter"
+          }
+        },
+        "16588184309f2bfc05-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/press_mobile03b.jpg",
+            "video": "",
+            "desktop_image_position": "center center",
+            "mobile_image_position": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--hcenter position--vcenter"
+          }
+        },
+        "83d471f3-1369-4451-9e00-68050dce7a25": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/press_mobile04b.jpg",
+            "video": "",
+            "desktop_image_position": "center center",
+            "mobile_image_position": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--hcenter position--vcenter"
+          }
+        }
+      },
+      "block_order": [
+        "16588184309f2bfc05-0",
+        "16588184309f2bfc05-1",
+        "16588184309f2bfc05-2",
+        "83d471f3-1369-4451-9e00-68050dce7a25"
+      ],
+      "settings": {
+        "title": "",
+        "grid": 4,
+        "desktop_image_height": 470,
+        "mobile_image_height": 400,
+        "title_size": 44,
+        "enable_margin": false,
+        "full_width": true,
+        "enable_carousel": true,
+        "overlay_style_tint": false,
+        "alternate_bg_color": false
+      }
+    },
+    "1636598131903a1fca": {
+      "type": "gallery",
+      "blocks": {
+        "1636598131903a1fca-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Patti_-_Dusty-Rose_-_Campaign-photo-01.jpg",
+            "video": "",
+            "desktop_image_position": "center center",
+            "mobile_image_position": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--hcenter position--vcenter"
+          }
+        },
+        "1636598131903a1fca-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Patti_-_Dusty-Rose_-_Campaign-photo-02.jpg",
+            "video": "",
+            "desktop_image_position": "center center",
+            "mobile_image_position": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--hcenter position--vcenter"
+          }
+        },
+        "1636598131903a1fca-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Patti_-_Dusty-Rose_-_Campaign-photo-03.jpg",
+            "video": "",
+            "desktop_image_position": "center center",
+            "mobile_image_position": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--hcenter position--vcenter"
+          }
+        }
+      },
+      "block_order": [
+        "1636598131903a1fca-0",
+        "1636598131903a1fca-1",
+        "1636598131903a1fca-2"
+      ],
+      "settings": {
+        "title": "",
+        "grid": 3,
+        "desktop_image_height": 800,
+        "mobile_image_height": 450,
+        "title_size": 44,
+        "enable_margin": false,
+        "full_width": true,
+        "enable_carousel": true,
+        "overlay_style_tint": false,
+        "alternate_bg_color": false
+      }
+    },
+    "1658821802fb9f2718": {
+      "type": "custom-html",
+      "settings": {
+        "no_margins": true,
+        "custom_liquid": "<p style=\"text-align: center; font-size: 22px; padding-top: 50px; margin: 0px; letter-spacing: 2px;\">STYLING IDEAS<\/p>"
+      }
+    },
+    "16366222772a94706d": {
+      "type": "gallery",
+      "blocks": {
+        "16366222772a94706d-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Artboard_2_1aaa34ab-fad7-4988-9fd3-b61f3d415e7a.jpg",
+            "video": "",
+            "desktop_image_position": "center center",
+            "mobile_image_position": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--left position--bottom"
+          }
+        },
+        "16366222772a94706d-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Artboard_4_51e7ea18-665e-428b-9361-43f45856c423.jpg",
+            "video": "",
+            "desktop_image_position": "center center",
+            "mobile_image_position": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--hcenter position--vcenter"
+          }
+        },
+        "16366222772a94706d-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Artboard_3_34465f06-9aa7-4a13-bdcb-5cf794a0fb7c.jpg",
+            "video": "",
+            "desktop_image_position": "center center",
+            "mobile_image_position": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--hcenter position--vcenter"
+          }
+        },
+        "b3098f50-9cd5-4772-80cd-c4aa27370470": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Artboard_1_e7780a5f-b07e-4966-89a9-c3ee236650c3.jpg",
+            "video": "",
+            "desktop_image_position": "center center",
+            "mobile_image_position": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--hcenter position--vcenter"
+          }
+        }
+      },
+      "block_order": [
+        "16366222772a94706d-0",
+        "16366222772a94706d-1",
+        "16366222772a94706d-2",
+        "b3098f50-9cd5-4772-80cd-c4aa27370470"
+      ],
+      "settings": {
+        "title": "",
+        "grid": 4,
+        "desktop_image_height": 410,
+        "mobile_image_height": 400,
+        "title_size": 44,
+        "enable_margin": false,
+        "full_width": false,
+        "enable_carousel": true,
+        "overlay_style_tint": false,
+        "alternate_bg_color": false
+      }
+    },
+    "1658821534b7cf4f57": {
+      "type": "custom-html",
+      "settings": {
+        "no_margins": true,
+        "custom_liquid": "<style>\n.section-title {\n  background-color: lightgreen;\n  text-align: center;\n  font-size: 22px;\n  padding: 50px;\n  background-color: #eaeaea;\n  margin: 0px;\n  letter-spacing: 2px;\n}\n\n@media only screen and (max-width: 600px) {\n  .section-title {\n    padding-bottom: 0px;\n  }\n}\n\n<\/style>\n<body>\n\n<p class=\"section-title\">ABOUT NOIRANCA<\/p>\n\n<\/body>"
+      }
+    },
+    "165881903171fbd7ce": {
+      "type": "image-with-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "text": "<p>Our bags are crafted with our signature PETA-Approved Vegan Leather, which consists of 58% recycled elements, an eco-alternative and more bio-degradable over time, compared to other traditional synthetic leather. No exotic skin, fur or leather will be ever used in our designs.<\/p><p>We hold the ethos of full-on sustainability – not just by heart, but also by actions.<\/p><p><em>Consciously leather-less.Where material is sustainable, traceable and animal-free.<\/em><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_alignment": "center",
+        "text_width": 50,
+        "button_style": "auto",
+        "image": "shopify:\/\/shop_images\/veganleatherb_ed030b0e-d061-413f-a32a-2ea1c88de8ba.jpg",
+        "video": "",
+        "image_width": 100,
+        "image_position": "left",
+        "media_size": "contain",
+        "alternate_bg_color": false,
+        "color_bg": "#eaeaea"
+      }
+    },
+    "165882066539cf20ad": {
+      "type": "image-with-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "text": "<p>Working with a 50-year-old family atelier on vegan leather bags, our collection of bags transcends beyond its quality, into profound heritage and culture. The 30 artisans – all with expertise and rich experience in leather-making – are the people who bring NOIRANCA bags to life, if not at its finest.<\/p><p><\/p><p><em>\"It’s real people, real hands, behind each NOIRANCA.\"<\/em><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_alignment": "center",
+        "text_width": 50,
+        "button_style": "auto",
+        "image": "shopify:\/\/shop_images\/atelierb1.jpg",
+        "video": "",
+        "image_width": 100,
+        "image_position": "right",
+        "media_size": "contain",
+        "alternate_bg_color": false,
+        "color_bg": "#eaeaea"
+      }
+    },
+    "1658820669f8bc0480": {
+      "type": "image-with-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "text": "<p>We believe it is time that we incorporate “earth” in the fashion culture. Through rewriting the core elements that make a classic bag, we embrace traceability, transparency, and positive consumption. Every move of ours is rooted in our respect for the earth, from limiting waste to upcycling, to sourcing sustainable leather and using state-of-the-art machinery. Through maintaining a digital-only approach and avoiding the use of express air freight, we are minimizing our carbon footprint as much as possible. Manoeuvring the balance between sustainability and fashion, we are giving back to our planet without compromising on quality – a step closer to achieving carbon neutral.<\/p><p><\/p><p><em>A Perfect Balance, Between Eco and Luxe <\/em><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_alignment": "center",
+        "text_width": 50,
+        "button_style": "auto",
+        "image": "shopify:\/\/shop_images\/artfully_sustainableb1.jpg",
+        "video": "",
+        "image_width": 100,
+        "image_position": "left",
+        "media_size": "contain",
+        "alternate_bg_color": false,
+        "color_bg": "#eaeaea"
+      }
+    },
+    "1658821618c587832f": {
+      "type": "custom-html",
+      "settings": {
+        "no_margins": true,
+        "custom_liquid": "<p style=\"text-align: center; font-size: 22px; padding-top: 50px; margin: 0px; letter-spacing: 2px;\">MATERIALS<\/p>"
+      }
+    },
+    "16588207719136b0e7": {
+      "type": "gallery",
+      "blocks": {
+        "1658820771ad3a2eac-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Artboard_1_c6497051-0a4f-4f98-a6cf-aa56d3f6a134.jpg",
+            "video": "",
+            "desktop_image_position": "center center",
+            "mobile_image_position": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--hcenter position--vcenter"
+          }
+        },
+        "1658820771ad3a2eac-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Artboard_2_2b0813a1-255c-4d12-9ec5-9a5ed2190c95.jpg",
+            "video": "",
+            "desktop_image_position": "center center",
+            "mobile_image_position": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--hcenter position--vcenter"
+          }
+        },
+        "1658820771ad3a2eac-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Artboard_3_f6d37acc-33f9-45c8-b924-72d10f46779c.jpg",
+            "video": "",
+            "desktop_image_position": "center center",
+            "mobile_image_position": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--hcenter position--vcenter"
+          }
+        },
+        "622ddb59-4d58-434f-a1a3-87a8764c1131": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Artboard_4_b3fe2ba6-2317-4aa4-a588-98643573cdd4.jpg",
+            "video": "",
+            "desktop_image_position": "center center",
+            "mobile_image_position": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--hcenter position--vcenter"
+          }
+        }
+      },
+      "block_order": [
+        "1658820771ad3a2eac-0",
+        "1658820771ad3a2eac-1",
+        "1658820771ad3a2eac-2",
+        "622ddb59-4d58-434f-a1a3-87a8764c1131"
+      ],
+      "settings": {
+        "title": "",
+        "grid": 4,
+        "desktop_image_height": 350,
+        "mobile_image_height": 400,
+        "title_size": 44,
+        "enable_margin": false,
+        "full_width": false,
+        "enable_carousel": true,
+        "overlay_style_tint": true,
+        "alternate_bg_color": false
+      }
+    },
+    "165882098338e65c85": {
+      "type": "custom-html",
+      "settings": {
+        "no_margins": true,
+        "custom_liquid": "<!DOCTYPE html>\n<style>\n.section-title {\n  background-color: lightgreen;\n  text-align: center;\n  font-size: 22px;\n  padding: 50px;\n  background-color: #eaeaea;\n  margin: 0px;\n  letter-spacing: 2px;\n}\n\n@media only screen and (max-width: 600px) {\n  .section-title {\n    padding-bottom: 0px;\n  }\n}\n\n<\/style>\n<body>\n\n<p class=\"section-title\">DESIGN INSPIRATION<\/p>\n\n<\/body>"
+      }
+    },
+    "163662182488c9be64": {
+      "type": "image-with-text",
+      "settings": {
+        "subheading": "Tripartite Intuition ",
+        "title": "PATTI",
+        "text": "<p>Patti Smith is one of the early pioneers of New York’s dynamic punk scene, and was instrumental in the punk rock movement of the 1970s, yet she would not identify her as a punk. She considers herself a poet, and an author. What’s certain is that her trinity – punk, poet, author – are interlinked and her uncompromising songwriting has inspired generations of musicians and writers, and women in general. She is a living proof that we can all be multi-talented, we can inspire, we can be an icon and humble at the same time. Rock on. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_alignment": "center",
+        "text_width": 50,
+        "button_style": "auto",
+        "image": "shopify:\/\/shop_images\/NOIRANCA-Pattii-Story-1.jpg",
+        "video": "",
+        "image_width": 100,
+        "image_position": "left",
+        "media_size": "contain",
+        "alternate_bg_color": false,
+        "color_bg": "#eaeaea"
+      }
+    },
+    "1636622060887d292e": {
+      "type": "image-with-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "text": "<p>Echoing Smith’s legend as an author, poet and musician, PATTI has a three-shade design, all complementing each other and are in contrast with a thick golden chain that points to the rock symbol that Smith is. It drapes comfortably from the shoulder and doubles as a clutch that is tactile and functional. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_alignment": "center",
+        "text_width": 50,
+        "button_style": "primary",
+        "image": "shopify:\/\/shop_images\/RackMultipart20210810-4-fs72qu.jpg",
+        "video": "",
+        "image_width": 100,
+        "image_position": "right",
+        "media_size": "contain",
+        "alternate_bg_color": false,
+        "color_bg": "#eaeaea"
+      }
+    },
+    "1636623215ccb7e547": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "1636623215ccb7e547-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Artboard_1_116803df-50dd-4b8e-9c50-87434f91da9c.jpg",
+            "video": "",
+            "image_width": 80,
+            "title": "",
+            "text": "<p><strong>Free International Shipping<\/strong><br\/>On All Orders<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "1636623215ccb7e547-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Artboard_3.jpg",
+            "video": "",
+            "image_width": 80,
+            "title": "",
+            "text": "<p><strong>7 Days Exchange & Return<\/strong><br\/>Happiness Guarantee<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "1636623215ccb7e547-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Artboard_2.jpg",
+            "video": "",
+            "image_width": 80,
+            "title": "",
+            "text": "<p><strong>Here For You<\/strong><br\/>Email Us at support@noiranca.com<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1636623215ccb7e547-0",
+        "1636623215ccb7e547-1",
+        "1636623215ccb7e547-2"
+      ],
+      "settings": {
+        "title": "",
+        "text_alignment": "center",
+        "button_style": "primary",
+        "media_shape": "natural",
+        "alternate_bg_color": false,
+        "full_width": false
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "show_product_recommendations": true,
+        "title": "YOU MAY ALSO LIKE",
+        "hide_swatches": true,
+        "show_vendor": false,
+        "grid": 3
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16588218336b4ffb6d",
+    "1658818430a588f0c2",
+    "1636598131903a1fca",
+    "1658821802fb9f2718",
+    "16366222772a94706d",
+    "1658821534b7cf4f57",
+    "165881903171fbd7ce",
+    "165882066539cf20ad",
+    "1658820669f8bc0480",
+    "1658821618c587832f",
+    "16588207719136b0e7",
+    "165882098338e65c85",
+    "163662182488c9be64",
+    "1636622060887d292e",
+    "1636623215ccb7e547",
+    "product-recommendations"
+  ]
+}

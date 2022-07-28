@@ -1,0 +1,190 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_h1": true
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "review_summary": {
+          "type": "review_summary",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_style": "underlined",
+            "show_realtime_availability": true,
+            "show_size_chart": false,
+            "size_chart_variant": "Size",
+            "size_chart_page": ""
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_tax_and_shipping": false,
+            "show_quantity_selector": false,
+            "enable_payment_button": true,
+            "show_pickup_availability": false
+          }
+        },
+        "tabs": {
+          "type": "tabs",
+          "settings": {
+            "description_style": "accordion",
+            "show_product_description": true,
+            "tab_2_page": "",
+            "tab_2_title": "",
+            "tab_2_content": "",
+            "tab_3_page": "",
+            "tab_3_title": "",
+            "tab_3_content": "",
+            "tab_4_page": "",
+            "tab_4_title": "",
+            "tab_4_content": ""
+          }
+        },
+        "loox-rating": {
+          "type": "shopify:\/\/apps\/loox-product-reviews-photos\/blocks\/loox-rating\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "loox-rating",
+        "review_summary",
+        "variant_picker",
+        "buy_buttons",
+        "tabs"
+      ],
+      "settings": {
+        "media_style": "one-column",
+        "cart_type": "",
+        "full_width": true,
+        "sticky_product_form": true,
+        "enable_mobile_sticky_cart": false,
+        "show_backorder_text": true,
+        "show_inventory_notice": false,
+        "inventory_notice_threshold": 10,
+        "slide_nav_style": "arrows",
+        "show_thumbnails": true,
+        "enable_zoom": false,
+        "enable_video_looping": false,
+        "scroll_to_variant_media": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "show_product_recommendations": true,
+        "title": "You may also like",
+        "hide_swatches": false,
+        "show_vendor": false,
+        "grid": 3
+      }
+    },
+    "1636621382e9f6fea8": {
+      "type": "gallery",
+      "blocks": {
+        "1636621382e9f6fea8-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/RackMultipart20210803-4-1ra2ryt.jpg",
+            "video": "",
+            "desktop_image_position": "center center",
+            "mobile_image_position": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--hcenter position--vcenter"
+          }
+        },
+        "1636621382e9f6fea8-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/RackMultipart20210803-4-12tfcgx.jpg",
+            "video": "",
+            "desktop_image_position": "center center",
+            "mobile_image_position": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--hcenter position--vcenter"
+          }
+        },
+        "1636621382e9f6fea8-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/RackMultipart20210803-4-yscimk.jpg",
+            "video": "",
+            "desktop_image_position": "center center",
+            "mobile_image_position": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--hcenter position--vcenter"
+          }
+        }
+      },
+      "block_order": [
+        "1636621382e9f6fea8-0",
+        "1636621382e9f6fea8-1",
+        "1636621382e9f6fea8-2"
+      ],
+      "settings": {
+        "title": "",
+        "grid": 3,
+        "desktop_image_height": 800,
+        "mobile_image_height": 500,
+        "title_size": 44,
+        "enable_margin": false,
+        "full_width": true,
+        "enable_carousel": true,
+        "overlay_style_tint": true,
+        "alternate_bg_color": false
+      }
+    },
+    "loox-product-reviews-app-section": {
+      "type": "apps",
+      "blocks": {
+        "loox-product-reviews": {
+          "type": "shopify:\/\/apps\/loox-product-reviews-photos\/blocks\/loox-dynamic-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "hide_thumbnails": false,
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "loox-product-reviews"
+      ],
+      "settings": {}
+    }
+  },
+  "order": [
+    "main",
+    "product-recommendations",
+    "1636621382e9f6fea8",
+    "loox-product-reviews-app-section"
+  ]
+}
