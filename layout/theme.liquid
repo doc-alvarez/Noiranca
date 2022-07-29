@@ -555,16 +555,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             },1000)
           })
         })
-        {% if template contains 'product' %}
-        document.querySelectorAll('.product-detail__form__action button').forEach(function(ell) {
-          ell.addEventListener('click', function() {
-            setTimeout(function() {
-              SLIDECART_UPDATE();
-              SLIDECART_OPEN();
-            },1000)
-          })
-        })
-        {% endif %}
+        
+        
       })
     </script>
     <style>

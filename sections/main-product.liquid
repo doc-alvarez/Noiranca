@@ -694,10 +694,9 @@
                       {% else %}
                         <input type="hidden" name="quantity" value="1" />
                       {% endif %}
-                      <button class="button {% if block.settings.enable_payment_button and product.selling_plan_groups == empty %}alt{% endif %}" type="submit" name="add">
+                      <button class="gf_add-to-cart product-form-product-template btn button {% if block.settings.enable_payment_button and product.selling_plan_groups == empty %}alt{% endif %}" type="submit" name="add">
                         {{ 'products.product.add_to_cart' | t }}
                       </button>
-
                       {% if block.settings.enable_payment_button and product.selling_plan_groups == empty %}
                         {{ form | payment_button }}
                       {% endif %}
