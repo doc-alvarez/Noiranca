@@ -183,6 +183,10 @@
  }
  img {
   width: 100% !important;
+  
+ }
+ .product__photo-wrapper img {
+  pointer-events: none;
  }
  @media screen and (min-width: 1024px) {
   .swiper {
@@ -2097,19 +2101,29 @@
 {% endschema %}
 <script>
   const swiper = new Swiper('.swiper', {
+    speed: 1500,
+    effect: 'fade',
+    fadeEffect: {
+    crossFade: true
+  },
+    autoplay: {
+      disableOnInteraction: false, 
+      delay: 5000,
+    },
   // Optional parameters
   direction: 'horizontal',
 
   // And if we need scrollbar
   scrollbar: {
     el: '.swiper-scrollbar',
+    draggable: true,
   },
 });
 const swiperHandler = document.querySelector('.swiper').swiper;
 let hookEl = document.querySelectorAll('.js-scroll-button');
 hookEl.forEach(hook => {
   hook.addEventListener('click', () => {
-    swiperHandler.slideTo(swiperHandler.slides.length, 1000);
+    swiperHandler.slideTo((swiperHandler.slides.length - 2), 1500);
   })
 
 })
